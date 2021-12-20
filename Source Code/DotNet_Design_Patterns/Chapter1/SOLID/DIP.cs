@@ -23,7 +23,7 @@ namespace DotNet_Design_Patterns.Chapter1.SOLID.DIP
     {
         public void SendEmail(string email, string subject, string body)
         {
-            //ارسال ایمیل به گیرنده مورد نظر
+            //Do something
         }
     }
 
